@@ -6,7 +6,7 @@ body, html {
      height: 100%;
  }
 .parallax {
-    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/GuestCurate1+.jpg);
+    background-image: url(/Users/Portfolio/Libreria/img/GuestCurate1+.jpg);
 
     height: 100%;
 
@@ -17,7 +17,7 @@ body, html {
     opacity: 95%;
 }
 .container1{
-    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/ReplaceCurate.jpg);
+    background-image: url(/Users/Portfolio/Libreria/img/ReplaceCurate.jpg);
 
     height: 100%;
 
