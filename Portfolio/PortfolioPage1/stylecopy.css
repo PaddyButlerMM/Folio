@@ -3,7 +3,7 @@
     margin:0;
  }
 body{
-background-image: url(Portfolio/PortfolioPage1/img/Centrepital.png) !important;
+background-image: url(/Users/Portfolio/PortfolioPage1/img/Centrepital.png);
 max-height: 100%;
 background-size: cover;
 background-position: center;
