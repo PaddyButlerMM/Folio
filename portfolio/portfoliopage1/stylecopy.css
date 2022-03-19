@@ -207,6 +207,7 @@ transform: rotate(0.00000000001deg);
     right: 40px;
     position: absolute;
     border-radius: 100%;
+    overflow-x: hidden;
     text-rendering: pixelated;
     text-rendering: geometricPrecision;
     text-rendering:optimizeLegibility;
