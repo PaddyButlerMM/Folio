@@ -2,9 +2,11 @@
     padding:0;
     margin:0;
  }
-body{
+html body{
 background-image: url(img/Centrepital.png) !important;
 max-height: 100%;
+overflow-x: hidden;
+overflow-y: hidden;    
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -31,7 +33,9 @@ position: relative;
     display: inline-flex;
     float: inline-end;
     position:absolute;
-    overflow:hidden;
+    overflow-x:hidden;
+    overflow-y:hidden;
+    border-radius:100%
     bottom: 200px;
     font-size: 300px;
     image-rendering: optimizeQuality;
