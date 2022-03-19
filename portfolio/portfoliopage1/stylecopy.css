@@ -4,9 +4,7 @@
  }
 html body{
 background-image: url(img/Centrepital.png) !important;
-max-height: 100%;
-overflow-x: hidden;
-overflow-y: hidden;    
+max-height: 100%;   
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -23,6 +21,8 @@ position: relative;
     opacity: 100%;
     }
 #folio5{
+    overflow-x:hidden;
+    overflow-y:hidden;
     animation: 7s linear 1s infinite running slidein;
     animation-name: slidein;
     animation-timing-function: linear;
@@ -33,9 +33,6 @@ position: relative;
     display: inline-flex;
     float: inline-end;
     position:absolute;
-    overflow-x:hidden;
-    overflow-y:hidden;
-    border-radius:100%
     bottom: 200px;
     font-size: 300px;
     image-rendering: optimizeQuality;
@@ -206,8 +203,6 @@ transform: rotate(0.00000000001deg);
     top: 80px;
     right: 40px;
     position: absolute;
-    border-radius: 100%;
-    overflow-x: hidden;
     text-rendering: pixelated;
     text-rendering: geometricPrecision;
     text-rendering:optimizeLegibility;
