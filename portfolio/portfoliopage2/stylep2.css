@@ -3,13 +3,14 @@
     margin:0;
  
 }
- .body {
-  min-height: 100vh;
-  min-width: 100vw;
+ html body{
+   min-height: 100vh;
+   min-width: 100vw;
    background-image: linear-gradient(180deg, #D64CD9 0%, #4C84D9 99.78%, rgba(214, 76, 217, 0) 100%);
    padding:0px;
    margin-top: 0px;
-   overflow: hidden;
+   overflow-x: hidden;
+   overflow-y: hidden;  
    background-repeat: no-repeat;
    }
    #text{
@@ -113,6 +114,9 @@
     height: 90vh;
     width: 50rem;
     top: 80px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    max-width:100%;
     margin-bottom: 0%;
     margin-bottom: 0px;
     margin-left: 200px;
@@ -147,6 +151,9 @@
   #sola{
     height: 50vh;
     width: 50rem;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y:hidden;  
     opacity: 80%;
     top: 200px;
     left: 80px;
