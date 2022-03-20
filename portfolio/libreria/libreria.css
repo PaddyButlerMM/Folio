@@ -6,7 +6,7 @@ body, html {
    height: 100%;
  }
 .parallax {
-    background-image: url(libreria/img/GuestCurate1+.jpg);
+    background-image: url(img/GuestCurate1+.jpg);
 
     height: 100%;
 
@@ -24,7 +24,7 @@ body, html {
     }
   }
 .container1{
-    background-image: url(libreria/img/ReplaceCurate.jpg);
+    background-image: url(img/ReplaceCurate.jpg);
 
     height: 100%;
 
@@ -51,7 +51,7 @@ body, html {
 }
 
 .container2{
-    background-image: url(libreria/img/FitzLibreria1.png);
+    background-image: url(img/FitzLibreria1.png);
 
     height: 100%;
     background-attachment: fixed;
@@ -65,7 +65,7 @@ body, html {
           background-attachment: scroll;
         }}
 .container2{
-    background-image: url(libreria/img/FitzLibreria1.png);
+    background-image: url(img/FitzLibreria1.png);
 
     height: 100%;
     background-attachment: fixed;
@@ -90,7 +90,7 @@ body, html {
 
 }
 .container3{
-    background-image: url(libreria/img/BaanResized.jpg); 
+    background-image: url(img/BaanResized.jpg); 
     height: 65%;
 
     background-attachment: fixed;
@@ -104,7 +104,7 @@ body, html {
     }}
    
 .parallax4{
-    background-image: url(libreria/img/BaanResized3.jpg);
+    background-image: url(img/BaanResized3.jpg);
 
     height: 100%;
     background-attachment: fixed;
