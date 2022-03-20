@@ -1,0 +1,158 @@
+*{
+    padding:0;
+    margin:0;
+ }
+body, html {
+   height: 100%;
+ }
+.parallax {
+    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/GuestCurate1+.jpg);
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    opacity: 95%;
+}
+@media only screen and (max-width: 600px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+  }
+.container1{
+    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/ReplaceCurate.jpg);
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
+@media only screen and (max-width: 600px) {
+    .container1 {
+      background-attachment: scroll;
+    }
+
+}
+#podcast{
+    height: clamp(200px, 47vw, 900px);
+    width: auto;
+    position:relative;
+    top: 900px;
+    opacity: 85%;
+    margin-left: 150px;
+  
+}
+
+.container2{
+    background-image: url(/Users/patrickbutler/Desktop/portfolio/libreria/img/FitzLibreria1.png);
+
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    }
+    @media only screen and (max-width: 600px) {
+        .container2 {
+          background-attachment: scroll;
+        }}
+.container2{
+    background-image: url(/Users/patrickbutler/Desktop/portfolio/libreria/img/FitzLibreria1.png);
+
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
+@media only screen and (max-width: 600px) {
+    .container2 {
+      background-attachment: scroll;
+    }}
+
+.heading{
+    font-family: "Sansita Swashed";
+    text-align: sticky;
+    font-size: 6vw;
+    color:aliceblue;
+    position:relative;
+    margin-top: 80px;
+    margin-left: 30vw;
+
+}
+.container3{
+    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/BaanResized.jpg); 
+    height: 65%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media only screen and (max-width: 600px) {
+    .container3 {
+      background-attachment: scroll;
+    }}
+   
+.parallax4{
+    background-image: url(/Users/patrickbutler/Desktop/Portfolio/Libreria/img/BaanResized3.jpg);
+
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media only screen and (max-width: 600px) {
+    .parallax4 {
+      background-attachment: scroll;
+    }}
+    
+#bio{
+    max-width: 600px;
+opacity: 100%;
+color:aliceblue;
+display: flex;
+text-align: justify;
+top: 100px;
+margin-left: 15vw;
+margin-right: 120px;
+position: relative;
+word-spacing: 1.5px;
+line-height: 25px;
+}
+#bio2{
+    max-width: 600px;
+    display: block;
+    opacity: 100%;
+    color:aliceblue;
+    text-align:justify;
+    top: 150px;
+    margin-left: 15vw;
+    margin-right: 120px;
+    position: relative;
+    word-spacing: 1.5px;
+    line-height: 25px;
+    }
+#bio3{
+    max-width: 600px;
+    display: block;
+    opacity: 100%;
+    text-align: justify;
+    color:aliceblue;
+    top: 190px;
+    margin-left: 15vw;
+    margin-right: 120px;
+    position: relative;
+    word-spacing: 1.5px;
+    line-height: 25px;
+        }
