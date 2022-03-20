@@ -86,7 +86,7 @@
   }
  @media only screen and (max-width: 600px) {
     #press{
-    margin-left: 290px;
+    margin-left: 300px;
     }}
 
   #bib {
@@ -201,7 +201,7 @@
     width: auto; 
     color: rgb(134, 241, 255);
     margin-top: 150px;
-    margin-left: 800px;
+    margin-left: 700px;
     top: 150px;
     right: 160px;
     position: absolute;
