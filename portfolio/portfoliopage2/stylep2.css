@@ -81,7 +81,13 @@
     margin-left: 340px;
     position: absolute;
     float: left;
+    transform: left;
+     animation duration: .5s
   }
+ @media only screen and (max-width: 600px) {
+    #press{
+    margin-left: 270px;
+    }}
 
   #bib {
     position: fixed;
@@ -199,7 +205,8 @@
     top: 150px;
     right: 160px;
     position: absolute;
-    display: inline;}
+    display: inline;
+}
 
    
    
