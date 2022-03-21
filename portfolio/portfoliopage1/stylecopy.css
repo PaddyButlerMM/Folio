@@ -404,7 +404,7 @@ counter-increment: count 3;}
 }
 @media only screen and (max-width: 600px) {
     .time::after {
-      display: none;
+      right: -20px;
     }}
 #base{
     font-size: 280px;
