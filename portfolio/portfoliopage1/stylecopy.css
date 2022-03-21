@@ -189,8 +189,12 @@ position: relative;
             line-height: 40px;
             display: block;
             display: flex;
+             }
+            @media only screen and (max-width: 400px) {
+                .intro-text {
+                  display: none;
+                }}
 
-            }
         .intro-text p2{
         max-width: 400px;
          text-align: justify;
@@ -202,8 +206,12 @@ position: relative;
         line-height: 40px;
         display: block;
         display: flex;
-               
-}  
+              }  
+               @media only screen and (max-width: 400px) {
+                .intro-text p2 {
+                  display: none;
+                }}
+                 
 .heading {
     color: rgb(230, 250, 252);
     font-family: "Sansita Swashed";
@@ -395,7 +403,7 @@ counter-increment: count 9;
 100%{
 counter-increment: count 3;}
 }
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 600px) {
     .time::after {
       display: none;
     }}
