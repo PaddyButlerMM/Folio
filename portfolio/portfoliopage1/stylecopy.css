@@ -125,7 +125,7 @@ position: relative;
                 }
         100% {
             font-size: 500px;
-            }
+            }}
         @media only screen and (max-width: 300px) {
             #folio5 {
               animation: disabled;
@@ -269,10 +269,6 @@ position: relative;
                 .heading {
                   animation: disabled;
                 }     
-@media only screen and (max-width: 300px) {
-                .heading {
-                  animation: disabled;
-                }}
 
 @media (max-width: 1000px) {
     .heading { font-size: 80px; transition-delay: 1.5 s;}
@@ -402,10 +398,6 @@ counter-increment: count 9;
 100%{
 counter-increment: count 3;}
 }
-@media only screen and (max-width: 600px) {
-    .time::after {
-      animation:disabled;
-    }}
 #base{
     font-size: 280px;
     color: aliceblue;
