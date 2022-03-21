@@ -78,15 +78,15 @@
     height: clamp(45px, 4vw, 80px); 
     width:auto;
     z-index: 6;
-    margin-left: 340px;
+    margin-left: 380px;
     position: absolute;
     float: left;
     transform: left;
-     animation duration: .5s
+     animation duration: 1s;
   }
  @media only screen and (max-width: 600px) {
     #press{
-    margin-left: 300px;
+    margin-left: 200px;
     }}
 
   #bib {
@@ -203,7 +203,7 @@
     margin-top: 150px;
     margin-left: 700px;
     top: 150px;
-    right: 160px;
+    right: 100px;
     position: absolute;
     display: inline;
 }
