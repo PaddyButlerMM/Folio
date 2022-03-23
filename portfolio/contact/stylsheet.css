@@ -4,7 +4,7 @@ margin: 0;
 
 }
 body {
-background-image: url(img/negative.jpg);
+background-image: url(negative.jpg);
 height: 100vw;
 background-size: cover;
 background-position: center;
