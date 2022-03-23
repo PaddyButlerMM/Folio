@@ -1,0 +1,27 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+body {
+background-image: url(/Users/patrickbutler/Desktop/portfolio/portfoliopage2/portfoliotext/img/negative.jpg);
+height: 100vw;
+background-size: cover;
+background-position: center;
+background-repeat: repeat;
+
+}
+
+#fire{
+    font-family: 'Roboto', 'italic';
+    font-size: 8vw;
+    color: rgb(255, 119, 248);
+    margin-left: 25vw;
+    margin-top: 300px
+}
+.contact{
+    font-family: "Roboto";
+    color: bisque;
+    margin-left: 25vw;
+    top: 170px
+}
