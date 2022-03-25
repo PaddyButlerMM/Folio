@@ -13,18 +13,18 @@ body {
     background-repeat: repeat;
 }
 #title{
-        font-family: 'Archivo';
-        font-size: 16vw;
-        font-weight: bolder;
-        margin-left: 7vw;
-        margin-top: 200px;
+     font-family: 'Archivo';
+     font-size: 10vw;
+     font-weight: bolder;
+      margin-left: 7vw;
+      margin-top: 150px;
     }
     #sub{
-        font-family: 'Roboto';
-        margin-left: 7vw;
-        max-width: 900px;
-        margin-top: 250px;
-        color:rgb(248, 123, 213);
+      font-family: 'Roboto';
+       margin-left: 7vw;
+       max-width: 900px;
+       margin-top: 200px;
+       color:rgb(248, 123, 213);
 
 
     }
