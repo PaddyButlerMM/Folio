@@ -113,13 +113,13 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
     .parallax4 {
       background-attachment: scroll;
     }}
     
 #bio{
-    max-width: 400px;
+    max-width: 600px;
 opacity: 100%;
 color:aliceblue;
 font-weight: bold;
@@ -133,7 +133,7 @@ word-spacing: 1.5px;
 line-height: 25px;
 }
 #bio2{
-    max-width: 400px;
+    max-width: 600px;
     display: block;
     font-weight: bold;
     opacity: 100%;
@@ -146,12 +146,12 @@ line-height: 25px;
     word-spacing: 1.5px;
     line-height: 25px;
     }
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 400px) {
         #bio2 {
             display: none;
         }}
 #bio3{
-    max-width: 400px;
+    max-width: 600px;
     display: block;
     opacity: 100%;
     font-weight: bold;
