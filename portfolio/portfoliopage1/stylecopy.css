@@ -180,6 +180,7 @@ position: relative;
         .intro-text p1{
             max-width: 400px;
             text-align: justify;
+            backdrop-filter: blur(10px);
             margin-top: 30px;
             padding-left: 25px;
             color:rgb(255, 119, 248);
@@ -197,7 +198,8 @@ position: relative;
 
         .intro-text p2{
         max-width: 400px;
-         text-align: justify;
+        text-align: justify;
+        backdrop-filter: blur(10px);
         margin-top: 60px;
         padding-left: 25px;
         color:rgb(255, 119, 248);
