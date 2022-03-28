@@ -220,6 +220,7 @@ position: relative;
 .heading {
     color: rgb(230, 250, 252);
     font-family: "Sansita Swashed";
+    z-index: 2;
     opacity: 95%;
     font-size: 120px; 
     top: 80px;
