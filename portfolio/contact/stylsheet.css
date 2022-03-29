@@ -22,6 +22,7 @@ background-repeat: repeat;
 .contact{
     font-family: "Antic Slab";
     min-width: 100px;
+    max-width: 150px;
     flex-wrap: nowrap;
     color: rgb(255, 119, 248);
     margin-left: 25vw;
@@ -29,6 +30,6 @@ background-repeat: repeat;
     -moz-backdrop-filter: blur(10px);
     padding-right: 20px;
     margin-right: 500px;
-    top: 170px
+    top: 170px;
         
 }
