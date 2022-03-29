@@ -23,5 +23,8 @@ background-repeat: repeat;
     font-family: "Roboto";
     color: rgb(255, 119, 248);
     margin-left: 25vw;
+    backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    padding-right: 130px;
     top: 170px
 }
