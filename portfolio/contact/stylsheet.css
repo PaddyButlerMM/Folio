@@ -21,7 +21,8 @@ background-repeat: repeat;
 }
 .contact{
     font-family: "Roboto";
-    min-width: 60px;
+    min-width: 100px;
+    flex-wrap: nowrap;
     color: rgb(255, 119, 248);
     margin-left: 25vw;
     backdrop-filter: blur(10px);
@@ -29,4 +30,5 @@ background-repeat: repeat;
     padding-right: 20px;
     margin-right: 500px;
     top: 170px
+        
 }
