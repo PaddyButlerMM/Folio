@@ -25,7 +25,6 @@ position: relative;
 #folio5{
     overflow-x: hidden;
     overflow-y: hidden;
-    z-index: -2;
     border-radius: 100%;
     animation: 7s linear 1s infinite running slidein;
     animation-name: slidein;
