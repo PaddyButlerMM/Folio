@@ -179,6 +179,7 @@ position: relative;
 
         .intro-text p1{
             max-width: 400px;
+            min-width: 400px;
             text-align: justify;
             z-index: -2;
             backdrop-filter: blur(8px);
@@ -202,6 +203,7 @@ position: relative;
 
         .intro-text p2{
         max-width: 400px;
+            min-width: 400px;
         text-align: justify;
             z-index: -2;
         backdrop-filter: blur(8px);
