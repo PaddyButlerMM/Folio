@@ -26,5 +26,6 @@ background-repeat: repeat;
     backdrop-filter: blur(10px);
     -moz-backdrop-filter: blur(10px);
     padding-right: 20px;
+    margin-right: 500px;
     top: 170px
 }
