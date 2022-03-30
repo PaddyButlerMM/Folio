@@ -12,6 +12,34 @@ body {
     background-position: center;
     background-repeat: repeat;
 }
+.nav{
+    overflow:hidden;
+    z-index: 2;
+    color: rgb(181, 233, 236);
+    font-family: "Sansita Swashed";
+    font-size: 20px;
+    top: 20px;
+     margin-left: 2vw;
+  }
+    #home:hover{
+        color: bisque;
+    } 
+    #act:hover{
+        color: rgb(82, 226, 219);
+        animation: pulse; 
+        transition-timing-function: ease-out;
+    }
+    #Cur:hover{
+     color: rgb(201, 194, 107);
+    }  
+    
+   #Ab:hover{
+    color: rgb(234, 155, 245);
+    z-index: -1;
+   }
+#copy:hover{
+ color: rgb(252, 160, 99);
+}
 #title{
      font-family: 'Archivo';
      color: rgb(51, 180, 235);
