@@ -11,17 +11,51 @@ background-position: center;
 background-repeat: repeat;
 
 }
+#nav a{
+  color:rgb(208, 248, 250);
+   z-index: 8;
+   font-family: "Sansita Swashed";
+   font-size: 20px;
+   top: 20px;
+   margin-left: 2vw;
+   word-spacing: 3.5px;
+   position: relative;
+  }
+    #hom:hover{
+        color: bisque;
+        z-index: 8;
+    } 
+    #act:hover{
+        color: rgb(82, 226, 219);
+        animation: pulse; 
+        transition-timing-function: ease-out;
+        z-index: 8;
+    }
+    #Cur:hover{
+     color: rgb(201, 194, 107);
+        z-index: 8;
+    }  
+    
+   #Ab:hover{
+    color: rgb(234, 155, 245);
+    z-index: 8;
+   }
+#copy:hover{
+ color: rgb(252, 160, 99);
+    z-index: 8;
+}
 
 #fire{
     font-family: 'Roboto', 'italic';
     font-size: 8vw;
     color: rgb(255, 119, 248);
     margin-left: 25vw;
-    margin-top: 300px
+    margin-top: 300px;
+    min-width: 200px;
 }
 .contact{
     font-family: "Antic Slab";
-    min-width: 100px;
+    min-width: 200px;
     max-width: 150px;
     flex-wrap: nowrap;
     color: rgb(255, 119, 248);
