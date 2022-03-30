@@ -13,7 +13,7 @@ body, html {
    top: 20px;
    margin-left: 2vw;
    word-spacing: 3.5px;
-   position: absolute;
+   position: relative;
   }
     #hom:hover{
         color: bisque;
