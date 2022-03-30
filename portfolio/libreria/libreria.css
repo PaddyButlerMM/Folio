@@ -5,7 +5,24 @@
 body, html {
    height: 100%;
  }
-#nav a{
+.parallax {
+    background-image: url(img/GuestCurate1+.jpg);
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    opacity: 95%;
+}
+@media only screen and (max-width: 600px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+    #nav a{
   color:rgb(208, 248, 250);
    z-index: 2;
    font-family: "Sansita Swashed";
@@ -33,23 +50,6 @@ body, html {
 #copy:hover{
  color: rgb(252, 160, 99);
 }
-.parallax {
-    background-image: url(img/GuestCurate1+.jpg);
-
-    height: 100%;
-
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-wrap: wrap;
-    opacity: 95%;
-}
-@media only screen and (max-width: 600px) {
-    .parallax {
-      background-attachment: scroll;
-    }
   }
 .container1{
     background-image: url(img/ReplaceCurate.jpg);
