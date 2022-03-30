@@ -36,7 +36,7 @@ body {
     
    #Ab:hover{
     color: rgb(234, 155, 245);
-    z-index: -1;
+    z-index: 2;
    }
 #copy:hover{
  color: rgb(252, 160, 99);
