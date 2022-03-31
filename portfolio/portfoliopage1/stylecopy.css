@@ -6,7 +6,6 @@ html body{
 background-image: url(img/Centrepital.png) !important;
 max-height: 100%;
 overflow-x: hidden;
-overflow-y: hidden;
 background-size: cover;
 background-position: center;
 background-repeat: repeat;
@@ -179,7 +178,7 @@ position: relative;
 
         .intro-text p1{
             max-width: 600px;
-            min-width: 600px;
+            min-width: 400px;
             text-align: justify;
             z-index: -2;
             backdrop-filter: blur(12px);
@@ -203,7 +202,7 @@ position: relative;
 
         .intro-text p2{
         max-width: 600px;
-            min-width: 600px;
+            min-width: 400px;
         text-align: justify;
             z-index: -2;
         backdrop-filter: blur(12px);
