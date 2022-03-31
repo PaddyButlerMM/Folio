@@ -2,9 +2,39 @@
     padding:0;
     margin:0;
  }
-body {
+body, html {
    height: 100%;
+   overflow-x: hidden;
  }
+ #nav a{
+  color:rgb(208, 248, 250);
+  z-index: 4;
+  font-family: "Sansita Swashed";
+  font-size: 20px;
+  top: 20px;
+  margin-left: 2vw;
+  word-spacing: 3.5px;
+  position: relative; 
+  }
+  #home:hover{
+      color: bisque;
+  } 
+  #act:hover{
+      color: rgb(82, 226, 219);
+      animation: pulse; 
+      transition-timing-function: ease-out;
+  }
+  #Cur:hover{
+   color: rgb(201, 194, 107);
+  }  
+  
+ #Ab:hover{
+  color: rgb(234, 155, 245);
+  z-index: -1;
+ }
+#copy:hover{
+color: rgb(252, 160, 99);
+}  
 .parallax {
     background-image: url(img/GuestCurate1+.jpg);
 
@@ -22,7 +52,7 @@ body {
     .parallax {
       background-attachment: scroll;
     }
-   
+  }
 .container1{
     background-image: url(img/ReplaceCurate.jpg);
 
@@ -112,47 +142,22 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     .parallax4 {
       background-attachment: scroll;
     }}
-     #nav a{
-  color:rgb(208, 248, 250);
-   z-index: 0;
-   font-family: "Sansita Swashed";
-   font-size: 20px;
-   top: 20px;
-   margin-left: 2vw;
-   word-spacing: 3.5px;
-   position: relative;
-  }
-    #hom:hover{
-        color: bisque;
-    } 
-    #act:hover{
-        color: rgb(82, 226, 219);
-        
-    }
-    #copy:hover{
-     color: rgb(201, 194, 107);
-    }  
     
-   #Cur:hover{
-    color: rgb(234, 155, 245);
-   }
-#Ab:hover{
- color: rgb(252, 160, 99);
-}
 #bio{
     max-width: 600px;
+    min-width: 25px;
 opacity: 100%;
 color:aliceblue;
-font-weight: bold;
+font-weight: bolder;
 display: flex;
 text-align: justify;
 top: 100px;
 margin-left: 15vw;
-margin-right: 120px;
+margin-right: 90px;
 position: relative;
 word-spacing: 1.5px;
 line-height: 25px;
@@ -160,36 +165,36 @@ line-height: 25px;
 #bio2{
     max-width: 600px;
     display: block;
-    font-weight: bold;
+    font-weight: bolder;
     opacity: 100%;
     color:aliceblue;
     text-align:justify;
     top: 150px;
     margin-left: 15vw;
-    margin-right: 120px;
+    margin-right: 90px;
     position: relative;
     word-spacing: 1.5px;
     line-height: 25px;
     }
-    @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 600px) {
         #bio2 {
-            display: none;
+          display: none;
         }}
 #bio3{
     max-width: 600px;
     display: block;
+    font-weight: bolder;
     opacity: 100%;
-    font-weight: bold;
     text-align: justify;
     color:aliceblue;
     top: 190px;
     margin-left: 15vw;
-    margin-right: 120px;
+    margin-right: 90px;
     position: relative;
     word-spacing: 1.5px;
     line-height: 25px;
         }
-    @media only screen and (max-width: 600px) {
-        #bio3 {
-            display: none;
-        }}
+        @media only screen and (max-width: 600px) {
+            #bio3 {
+              display: none;
+            }}
