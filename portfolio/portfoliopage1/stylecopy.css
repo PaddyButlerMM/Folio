@@ -182,6 +182,7 @@ position: relative;
             text-align: justify;
             z-index: -2;
             backdrop-filter: blur(12px);
+            backdrop-filter: sepia(70%);
             -moz-filter: blur(12px);
             margin-top: 30px;
             padding-left: 20px;
