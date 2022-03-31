@@ -61,9 +61,10 @@ background-repeat: repeat;
     flex-wrap: nowrap;
     color: rgb(255, 119, 248);
     margin-left: 25vw;
-    backdrop-filter: blur(10px) brightness(70%);
-    -moz-backdrop-filter: blur(10px);
-    padding-right: 100px;
+    backdrop-filter: blur(10px) brightness(80%);
+    -moz-backdrop-filter: blur(10px) brightness(80%);
+    padding-right: 300px;
+    padding-left: 50px
     margin-right: 500px;
     top: 170px;
         
