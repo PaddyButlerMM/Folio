@@ -55,6 +55,7 @@ background-repeat: repeat;
 }
 .contact{
     font-family: "Antic Slab";
+    font-weight: bold;
     min-width: 200px;
     max-width: 150px;
     flex-wrap: nowrap;
