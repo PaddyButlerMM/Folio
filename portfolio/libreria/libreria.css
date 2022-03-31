@@ -7,7 +7,7 @@ body {
  }
  #nav a{
   color:rgb(208, 248, 250);
-   z-index: 4;
+   z-index: 0;
    font-family: "Sansita Swashed";
    font-size: 20px;
    top: 20px;
@@ -20,8 +20,7 @@ body {
     } 
     #act:hover{
         color: rgb(82, 226, 219);
-        animation: pulse; 
-        transition-timing-function: ease-out;
+        
     }
     #copy:hover{
      color: rgb(201, 194, 107);
@@ -29,7 +28,6 @@ body {
     
    #Cur:hover{
     color: rgb(234, 155, 245);
-    z-index: 2;
    }
 #Ab:hover{
  color: rgb(252, 160, 99);
