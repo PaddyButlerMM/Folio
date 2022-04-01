@@ -56,15 +56,15 @@ background-repeat: repeat;
 .contact{
     font-family: "Antic Slab";
     font-weight: bold;
-    min-width: 200px;
-    max-width: 150px;
+    min-width: 300px;
+    max-width: 400px;
     flex-wrap: nowrap;
     color: rgb(255, 119, 248);
     margin-left: 25vw;
     backdrop-filter: blur(10px) brightness(60%);
     -moz-backdrop-filter: blur(10px) brightness(60%);
     padding-right: 300px;
-    padding-left: 10px;
+    padding-left: 30px;
     padding-bottom: 50px;
     padding-top: 20px;
     margin-right: 500px;
