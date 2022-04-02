@@ -173,8 +173,8 @@ background-attachment: fixed;
         .intro-text p1{
             max-width: 600px;
             min-width: 400px;
+            display: block;
             display: flex;
-            flex-wrap: wrap;
             font-weight: bold;
             text-align: justify;
             z-index: 0;
