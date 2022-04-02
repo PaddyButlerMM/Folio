@@ -175,7 +175,7 @@ background-attachment: fixed;
             min-width: 400px;
             display: flex;
             flex-wrap: wrap;
-            position: relative;
+            position: absolute;
             font-weight: bold;
             text-align: justify;
             z-index: -2;
