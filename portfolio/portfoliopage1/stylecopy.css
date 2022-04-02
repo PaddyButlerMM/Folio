@@ -13,6 +13,7 @@ position: relative;
     }
 #para {
     height: 100%;
+    width: 100vw;
             
     background-attachment: fixed;
     background-position: center;
@@ -34,7 +35,7 @@ position: relative;
     display: inline-flex;
     float: inline-end;
     position:absolute;
-    bottom: 200px;
+    top: 200px;
     font-size: 300px;
     image-rendering: optimizeQuality;
     font-family: 'avenir';
