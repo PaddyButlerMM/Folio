@@ -172,12 +172,12 @@ background-attachment: fixed;
 
         .intro-text p1{
             max-width: 600px;
-            min-width: 400px;
+            min-width: 300px;
             display: block;
             display: flex;
             font-weight: bold;
             text-align: justify;
-            z-index: 0;
+            z-index: 1;
             backdrop-filter: brightness(50%);
             -moz-filter: brightness(50%);
             margin-top: 80px;
