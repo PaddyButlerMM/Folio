@@ -4,12 +4,11 @@
  }
 html body{
 background-image: url(img/Centrepital.png) !important;
-max-height: 100%;
+max-height: 100vw
 overflow-x: hidden;
-background-size: cover;
 background-position: center;
 background-repeat: repeat;
-position: relative; 
+position: absolute; 
     }
 #para {
     height: 100%;
