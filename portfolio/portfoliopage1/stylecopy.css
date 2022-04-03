@@ -172,17 +172,17 @@ background-attachment: fixed;
 
         .intro-text p1{
             max-width: 600px;
+            text-align: justify;
             display: block;
             display: flex;
             flex-wrap: wrap;
             white-space: normal;
             overflow-wrap: normal;
             font-weight: bold;
-            text-align: justify;
             z-index: 5;
             backdrop-filter: brightness(50%);
             -moz-filter: brightness(50%);
-            margin-top: 80px;
+            margin-top: 160px;
             padding-left: 20px;
             padding-right: 150px;
             margin-left: 2vw;
