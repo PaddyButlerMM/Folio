@@ -28,7 +28,7 @@ background-attachment: fixed;
     font-weight: bolder;
     display: inline-flex;
     float: inline-end;
-    position:relative;
+    position:absolute;
     top: 200px;
     font-size: 300px;
     image-rendering: optimizeQuality;
@@ -172,7 +172,6 @@ background-attachment: fixed;
 
         .intro-text p1{
             max-width: 600px;
-            min-width: 300px;
             display: block;
             display: flex;
             flex-wrap: wrap;
