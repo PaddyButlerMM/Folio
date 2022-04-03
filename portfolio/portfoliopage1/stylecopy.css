@@ -171,7 +171,7 @@ background-attachment: fixed;
         }
 
         .intro-text p1{
-            max-width: 60vw;
+            width: clamp(400px, 60vw, 600px);
             text-align: justify;
             display: block;
             display: flex;
