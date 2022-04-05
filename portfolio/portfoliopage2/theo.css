@@ -45,7 +45,7 @@ body{
         margin-left: -13vw;
         margin-top: 80px;
         z-index: -2;
-        position:absolute;
+        position:relative;
        }
     #block{
         color:aliceblue;
