@@ -18,6 +18,9 @@ body{
         padding-left: 20px; 
         padding-top: 30px;
     }
+#hm:hover{
+    color: aliceblue;
+}
     #act:hover{
         color: rgb(82, 226, 219);
         animation: pulse; 
