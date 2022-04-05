@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: linear-gradient(180deg, #1d89aa 0%, #97730f 30.78%, #a37d1c 70.78%);
+    width: 100%;
+     padding:0px;
+     margin-top: 0px;
+   
+    }
+    #shpe{
+        width: 65vw;
+        height: auto;
+        margin-left: -13vw;
+        margin-top: 80px;
+        z-index: -2;
+        position:absolute;
+       }
+    #block{
+        color:aliceblue;
+        max-width: 950px;
+        font-weight: lighter;
+    min-width: 25px;
+    font-size: 16px;
+    margin-right: 50px;
+    margin-top: 320px;
+opacity: 100%;
+color:aliceblue;
+margin-left: 15vw;
+word-spacing: 1.5px;
+line-height: 48px;
+text-align: justify;
+display: inline-block;
+}
+#Theo{
+    margin-left: 5vw;
+    max-width: 100px;
+    color:rgb(251, 149, 247);
+    z-index: 999;
+    text-align: justify;
+    flex-wrap: wrap;
+    font-family: "DM Serif";
+    font-weight: bolder;
+    height: 200px;
+top: 100px;
+margin-left: 10vw;
+font-size: 13vw;
+position: relative;
+}   
+#and{
+    margin-left: 10vw;
+    color:rgb(97, 246, 251);
+    z-index: 1000;
+    text-align: justify;
+    flex-wrap: wrap;
+    font-family: "DM Serfi";
+    height: 200px;
+    font-weight: bolder;
+top: 250px;
+margin-left: 10vw;
+font-size: 18vw;
+position: relative;
+}
+#near{
+    margin-left: 9vw;
+    color:rgb(211, 169, 31);
+    z-index: 1001;
+    font-weight: bolder;
+    text-align: justify;
+    flex-wrap: wrap;
+    font-family: "DM Serif";
+    height: 200px;
+top: 300px;
+font-size: 13vw;
+position: relative;
+}
