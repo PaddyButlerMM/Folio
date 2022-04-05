@@ -94,7 +94,7 @@ font-size: 26vw;
 position: relative;
 }
 #near{
-    margin-left: 9vw;
+    margin-left: 6vw;
     color:rgb(211, 169, 31);
     z-index: 1001;
     font-weight: bolder;
@@ -102,7 +102,7 @@ position: relative;
     flex-wrap: wrap;
     font-family: "DM Serif";
     height: 200px;
-top: 340px;
+top: 380px;
 font-size: 14vw;
 position: relative;
 }
