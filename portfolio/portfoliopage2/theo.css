@@ -54,7 +54,8 @@ body{
     min-width: 25px;
     font-size: 16px;
     margin-right: 50px;
-    margin-top: 70px;
+    margin-top: 20px;
+        z-index: 10;
 opacity: 100%;
 color:aliceblue;
 margin-left: 15vw;
@@ -84,7 +85,7 @@ position: relative;
     z-index: 1000;
     text-align: justify;
     flex-wrap: wrap;
-    font-family: "DM Serfi";
+    font-family: "DM Serif";
     height: 200px;
     font-weight: bolder;
 top: 250px;
