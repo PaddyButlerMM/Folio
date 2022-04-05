@@ -82,7 +82,7 @@ position: relative;
 #and{
     margin-left: 10vw;
     color:rgb(118, 242, 246);
-    z-index: 1000;
+    z-index: 2000;
     text-align: justify;
     flex-wrap: wrap;
     font-family: "DM Serif";
@@ -90,7 +90,7 @@ position: relative;
     font-weight: bolder;
 top: 210px;
 margin-left: 10vw;
-font-size: 26vw;
+font-size: 32vw;
 position: relative;
 }
 #near{
