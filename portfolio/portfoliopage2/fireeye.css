@@ -10,7 +10,7 @@ body {
     size: 250px;
     width: auto;
     background-size: cover;
-    background-position: center;
+    background-position: fixed;
     background-repeat: no-repeat;
     position: absolute;
 }
@@ -48,7 +48,6 @@ body {
     color: rgb(118, 242, 246);
     max-width: 100px;
     text-align: justify;
-    flex-wrap: wrap;
     font-family: "DM Serif";
     font-weight: bolder;
     height: 200px;
