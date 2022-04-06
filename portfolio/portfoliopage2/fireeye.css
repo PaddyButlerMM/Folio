@@ -44,10 +44,6 @@ body {
  color: rgb(252, 160, 99);
 }
 #thing-to-stick{
-    position: sticky;
-     top: 0px;
-    position: -webkit-sticky;
-    z-index:0;
     margin-left: 5vw;
     color: rgb(118, 242, 246);
     max-width: 100px;
@@ -57,15 +53,13 @@ body {
     height: 200px;
     margin-top: 210px;
     font-size: 29vw;
-    
-}
+    }
 #paragraph1{
     max-width: 920px;
     font-size: 16px;
     font-weight: lighter;
     min-width: 25px;
-    display: inline-block;
-    display: flex;
+    display: block;
     opacity: 100%;
     color:rgb(41, 150, 167);
     z-index: 1;
@@ -79,8 +73,7 @@ body {
     }
  #prince2{
         max-width: 920px;
-        display: inline-block;
-        display: flex;
+        display: block;
         font-size: 16px;
         z-index: 1;
         font-weight: lighter;
