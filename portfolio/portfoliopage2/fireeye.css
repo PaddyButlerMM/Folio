@@ -44,6 +44,9 @@ body {
  color: rgb(252, 160, 99);
 }
 #title{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
     margin-left: 5vw;
     color: rgb(118, 242, 246);
     max-width: 100px;
@@ -53,9 +56,7 @@ body {
     height: 200px;
     margin-top: 210px;
     font-size: 29vw;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 60px;
+    
 }
 
 #paragraph1{
