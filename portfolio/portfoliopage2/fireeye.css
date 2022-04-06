@@ -51,8 +51,8 @@ body {
     font-weight: bolder;
     height: 200px;
     margin-top: 210px;
-    font-size: 29vw;
-    position: absolute;
+    font-size: 20vw;
+    position: relative;
     }
 #paragraph1{
     max-width: 600px;
