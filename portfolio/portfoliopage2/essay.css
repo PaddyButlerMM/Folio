@@ -70,7 +70,7 @@ body {
     display: inline-block;
     opacity: 100%;
     color:rgb(249, 250, 252);
-    display: flex;
+    z-index: 0;
     text-align: justify;
     top: 400px;
     margin-left: 15vw;
@@ -83,6 +83,7 @@ body {
         max-width: 850px;
         display: inline-block;
         font-size: 14px;
+        z-index: 0;
         font-weight: lighter;
         opacity: 100%;
         color:rgb(249, 250, 252);
@@ -99,6 +100,7 @@ body {
         display: block;
         font-size: 14px;
         font-weight: lighter;
+        z-index: 0;
         opacity: 100%;
         text-align: justify;
         color:rgb(249, 250, 252);
@@ -112,6 +114,7 @@ body {
     #prince4{
             max-width: 850px;
             display: inline-block;
+            z-index: 0;
                 opacity: 100%;
                 font-size: 14px;
                 font-weight: lighter;
@@ -127,6 +130,7 @@ body {
         #prince5{
             max-width: 850px;
             display: inline-block;
+            z-index: 0;
             opacity: 100%;
             font-size: 14px;
             font-weight: lighter;
@@ -143,6 +147,7 @@ body {
         max-width: 850px;
         display: inline-block;
         opacity: 100%;
+            z-index: 0;
         font-size: 14px;
         font-weight: lighter;
         text-align: justify;
@@ -158,6 +163,7 @@ body {
         max-width: 850px;
         display: inline-block;
         opacity: 100%;
+            z-index: 0;
         font-size: 14px;
         font-weight: lighter;
         text-align: justify;
@@ -172,6 +178,7 @@ body {
         #prince8{
         max-width: 850px;
         display: inline-block;
+        z-index: 0;
         opacity: 100%;
         font-size: 14px;
         font-weight: lighter;
@@ -187,6 +194,7 @@ body {
         #prince9{
             max-width: 850px;
             display: inline-block;
+            z-index: 0;
             opacity: 100%;
             font-size: 14px;
             font-weight: lighter;
@@ -202,6 +210,7 @@ body {
          #prince10{
             max-width: 850px;
             display: inline-block;
+            z-index: 0;
             font-size: 14px;
             font-weight: lighter;
             opacity: 100%;
