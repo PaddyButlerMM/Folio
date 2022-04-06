@@ -60,7 +60,7 @@ body {
     font-size: 16px;
     font-weight: lighter;
     min-width: 25px;
-    display: inline-block;
+    display: block;
     opacity: 100%;
     color:rgb(41, 150, 167);
     text-align: justify;
@@ -73,7 +73,7 @@ body {
     }
  #prince2{
         max-width: 600px;
-        display: inline-block;
+        display: block;
         font-size: 16px;
         font-weight: lighter;
         opacity: 100%;
