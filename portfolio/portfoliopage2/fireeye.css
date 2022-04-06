@@ -45,9 +45,9 @@ body {
 }
 #thing-to-stick{
     position: sticky;
+     top: 0px;
     position: -webkit-sticky;
-    top: 0px;
-    z-index:1000;
+    z-index:0;
     margin-left: 5vw;
     color: rgb(118, 242, 246);
     max-width: 100px;
@@ -68,7 +68,7 @@ body {
     display: inline-block;
     opacity: 100%;
     color:rgb(41, 150, 167);
-    z-index: 0;
+    z-index: 1;
     text-align: justify;
     top: 650px;
     margin-left: 33vw;
@@ -81,7 +81,7 @@ body {
         max-width: 920px;
         display: inline-block;
         font-size: 16px;
-        z-index: 0;
+        z-index: 1;
         font-weight: lighter;
         opacity: 100%;
         color:rgb(41, 150, 167);
@@ -96,7 +96,7 @@ body {
     #prince3{
         max-width: 920px;
         display: block;
-        z-index: 0;
+        z-index: 1;
         font-size: 16px;
         font-weight: lighter;
         opacity: 100%;
@@ -113,7 +113,7 @@ body {
             max-width: 920px;
             display: inline-block;
                 opacity: 100%;
-                z-index: 0;
+                z-index: 1;
                 font-size: 16px;
                 font-weight: lighter;
                 text-align: justify;
@@ -129,7 +129,7 @@ body {
             max-width: 920px;
             display: inline-block;
             opacity: 100%;
-            z-index: 0;
+            z-index: 1;
             font-size: 16px;
             font-weight: lighter;
             text-align: justify;
@@ -145,7 +145,7 @@ body {
                 max-width: 920px;
                 display: inline-block;
                 opacity: 100%;
-                z-index: 0;
+                z-index: 1;
                 font-size: 16px;
                 font-weight: lighter;
                 text-align: justify;
