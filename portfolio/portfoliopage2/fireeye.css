@@ -55,12 +55,11 @@ body {
     position: relative;
     }
 #paragraph1{
-    max-width: 600px;
+    width: 600px;
     display: inline-block;
     font-size: 16px;
     font-weight: lighter;
     min-width: 25px;
-    display: block;
     opacity: 100%;
     color:rgb(41, 150, 167);
     text-align: justify;
@@ -155,7 +154,7 @@ body {
                                                     text-align: justify;
                                                      color: rgb(41, 150, 167);
                                                     top: 540px;
-                                                    margin-left: 33vw;
+                                                    margin-left: 15vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -170,7 +169,7 @@ body {
                                                     text-align: justify;
                                                     color: rgb(41, 150, 167);
                                                     top: 580px;
-                                                    margin-left: 33vw;
+                                                    margin-left: 15vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -185,7 +184,7 @@ body {
                                                     text-align: justify;
                                                     color: rgb(41, 150, 167);
                                                     top: 620px;
-                                                    margin-left: 33vw;
+                                                    margin-left: 15vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -200,7 +199,7 @@ body {
                                                     text-align: justify;
                                                     color: rgb(41, 150, 167);
                                                     top: 660px;
-                                                    margin-left: 33vw;
+                                                    margin-left: 15vw;
                                                     margin-right: 20px;
                                                      position: relative;
                                                     word-spacing: 2.5px;
@@ -216,7 +215,7 @@ body {
                                                         text-align: justify;
                                                         color: rgb(41, 150, 167);
                                                         top: 700px;
-                                                        margin-left: 33vw;
+                                                        margin-left: 15vw;
                                                         margin-right: 20px;
                                                          position: relative;
                                                         word-spacing: 2.5px;
@@ -231,7 +230,7 @@ body {
                                                         text-align: justify;
                                                         color: rgb(41, 150, 167);
                                                         top: 740px;
-                                                        margin-left: 33vw;
+                                                        margin-left: 15vw;
                                                         margin-right: 20px;
                                                          position: relative;
                                                         word-spacing: 2.5px;
@@ -246,7 +245,7 @@ body {
                                                             text-align: justify;
                                                             color: rgb(41, 150, 167);
                                                             top: 780px;
-                                                            margin-left: 33vw;
+                                                            margin-left: 5vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
@@ -261,7 +260,7 @@ body {
                                                             text-align: justify;
                                                             color: rgb(41, 150, 167);
                                                             top: 820px;
-                                                            margin-left: 33vw;
+                                                            margin-left: 15vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
@@ -276,7 +275,7 @@ body {
                                                                     text-align: justify;
                                                                     color: rgb(41, 150, 167);
                                                                     top: 860px;
-                                                                    margin-left: 33vw;
+                                                                    margin-left: 15vw;
                                                                     margin-right: 20px;
                                                                      position: relative;
                                                                     word-spacing: 2.5px;
@@ -291,7 +290,7 @@ body {
                                                                 text-align: justify;
                                                                 color: rgb(41, 150, 167);
                                                                 top: 900px;
-                                                                margin-left: 33vw;
+                                                                margin-left: 15vw;
                                                                 margin-right: 20px;
                                                                  position: relative;
                                                                 word-spacing: 2.5px;
@@ -306,7 +305,7 @@ body {
                                                                     text-align: justify;
                                                                     color: rgb(41, 150, 167);
                                                                     top: 940px;
-                                                                    margin-left: 33vw;
+                                                                    margin-left: 15vw;
                                                                     margin-right: 20px;
                                                                      position: relative;
                                                                     word-spacing: 2.5px;
@@ -321,7 +320,7 @@ body {
                                                             text-align: justify;
                                                             color: rgb(41, 150, 167);
                                                             top: 980px;
-                                                            margin-left: 33vw;
+                                                            margin-left: 15vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
