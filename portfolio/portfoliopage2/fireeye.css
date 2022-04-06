@@ -10,7 +10,6 @@ body {
     width: auto;
     background-size: cover;
     background-repeat: no-repeat;
-    position: absolute;
 }
  #nav a{
   color:rgb(208, 248, 250);
