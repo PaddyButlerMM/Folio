@@ -60,7 +60,6 @@ body {
     font-size: 16px;
     font-weight: lighter;
     min-width: 25px;
-    display: block;
     opacity: 100%;
     color:rgb(41, 150, 167);
     z-index: 1;
@@ -74,7 +73,6 @@ body {
     }
  #prince2{
         max-width: 920px;
-        display: block;
         font-size: 16px;
         z-index: 1;
         font-weight: lighter;
@@ -90,8 +88,6 @@ body {
         }
     #prince3{
         max-width: 920px;
-        display: block;
-        display: flex;
         z-index: 1;
         font-size: 16px;
         font-weight: lighter;
@@ -107,8 +103,6 @@ body {
             }
     #prince4{
             max-width: 920px;
-            display: block;
-        display: flex;
                 opacity: 100%;
                 z-index: 1;
                 font-size: 16px;
@@ -124,8 +118,6 @@ body {
                     }
         #prince5{
             max-width: 920px;
-            display: block;
-            display: flex;
             opacity: 100%;
             z-index: 1;
             font-size: 16px;
@@ -141,8 +133,6 @@ body {
                             }
             #prince6{
                 max-width: 920px;
-                display: block;
-                display: flex;
                 opacity: 100%;
                 z-index: 1;
                 font-size: 16px;
@@ -158,8 +148,6 @@ body {
                                                 } 
                                                 #prince7{
                                                     max-width: 920px;
-                                                    display: block;
-                                                    display: flex;
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
@@ -174,8 +162,6 @@ body {
                                                                                     }  
                                                     #prince8{
                                                     max-width: 920px;
-                                                    display: block;
-                                                        display: flex;
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
@@ -190,8 +176,7 @@ body {
                                                                  }
                                                     #prince9{
                                                     max-width: 920px;
-                                                    display: block;
-                                                        display: flex;
+                                                    
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
@@ -206,8 +191,7 @@ body {
                                                              } 
                                                     #prince10{
                                                     max-width: 920px;
-                                                    display: block;
-                                                        display: flex;
+                                                   
                                                      opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
@@ -223,8 +207,7 @@ body {
                                                     
                                                     #prince11{
                                                         max-width: 920px;
-                                                        display: block;
-                                                        display: flex;
+                                                   
                                                          opacity: 100%;
                                                         font-size: 16px;
                                                         font-weight: lighter;
@@ -239,8 +222,7 @@ body {
                                                     }
                                                     #prince12{
                                                         max-width: 920px;
-                                                        display: block;
-                                                        display: flex;
+                                                        
                                                          opacity: 100%;
                                                         font-size: 16px;
                                                         font-weight: lighter;
@@ -255,8 +237,7 @@ body {
                                                     }
                                                         #prince13{
                                                             max-width: 920px;
-                                                            display: block;
-                                                            display: flex;
+                                                            
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
@@ -271,8 +252,7 @@ body {
                                                         }
                                                         #prince14{
                                                             max-width: 920px;
-                                                            display: block;
-                                                            display: flex;
+                                                            
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
@@ -287,8 +267,7 @@ body {
                                                         }
                                                                 #prince15{
                                                                     max-width: 920px;
-                                                                    display: block;
-                                                                    display: flex;
+                                                                   
                                                                      opacity: 100%;
                                                                     font-size: 16px;
                                                                     font-weight: lighter;
@@ -303,8 +282,7 @@ body {
                                                             } 
                                                             #prince16{
                                                                 max-width: 920px;
-                                                                display: block;
-                                                                display: flex;
+                                                                
                                                                  opacity: 100%;
                                                                 font-size: 16px;
                                                                 font-weight: lighter;
@@ -319,8 +297,7 @@ body {
 
                                                                 #prince17{
                                                                     max-width: 920px;
-                                                                    display: block;
-                                                                    display: flex;
+                                                                  
                                                                      opacity: 100%;
                                                                     font-size: 16px;
                                                                     font-weight: lighter;
@@ -335,8 +312,7 @@ body {
                                                         }     
                                                         #prince18{
                                                             max-width: 920px;
-                                                            display: block;
-                                                            display: flex;
+                                                         
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
