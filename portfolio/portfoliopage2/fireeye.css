@@ -5,7 +5,7 @@
     }
 
 body {
-    background-color: peachpuff;
+    background-color: linear-gradient(180deg, #c39d29 .5%, #97730f 40.78%, #a37d1c 70.78%);
     height: 100vw;
     background-image: url(NegLib+.png);
     size: 250px;
