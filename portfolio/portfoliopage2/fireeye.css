@@ -68,7 +68,7 @@ body {
     top: 650px;
     margin-left: 33vw;
     margin-right: 20px;
-    position: relative;
+    position: absolute;
     word-spacing: 2.5px;
     line-height: 45px;
     }
@@ -84,7 +84,7 @@ body {
         top: 680px;
         margin-left: 33vw;
         margin-right: 20px;
-        position: relative;
+        position: absolute;
         word-spacing: 2.5px;
         line-height: 45px;
         }
@@ -101,7 +101,7 @@ body {
         top: 710px;
         margin-left: 33vw;
         margin-right: 20px;
-        position: relative;
+        position: absolute;
         word-spacing: 2.5px;
         line-height: 45px;
             }
@@ -118,7 +118,7 @@ body {
                 top: 740px;
                 margin-left: 33vw;
                 margin-right: 20px;
-                position: relative;
+                position: absolute;
                 word-spacing: 2.5px;
                 line-height: 45px;
                     }
@@ -135,7 +135,7 @@ body {
             top: 770px;
             margin-left: 33vw;
             margin-right: 20px;
-            position: relative;
+            position: absolute;
             word-spacing: 2.5px;
             line-height: 45px;
                             }
@@ -152,7 +152,7 @@ body {
                 top: 800px;
                 margin-left: 33vw;
                 margin-right: 20px;
-                position: relative;
+                position: absolute;
                 word-spacing: 2.5px;
                 line-height: 45px;
                                                 } 
@@ -168,7 +168,7 @@ body {
                                                     top: 830px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: relative;
+                                                    position: absolute;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                                                     }  
@@ -184,7 +184,7 @@ body {
                                                     top: 860px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: relative;
+                                                    position: absolute;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                                  }
@@ -200,7 +200,7 @@ body {
                                                     top: 890px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: relative;
+                                                    position: absolute;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                              } 
@@ -216,7 +216,7 @@ body {
                                                     top: 920px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                     position: relative;
+                                                     position: absolute;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                     }
