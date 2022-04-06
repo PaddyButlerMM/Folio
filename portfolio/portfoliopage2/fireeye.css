@@ -53,6 +53,7 @@ body {
     height: 200px;
     margin-top: 210px;
     font-size: 29vw;
+    position: absolute;
     }
 #paragraph1{
     max-width: 920px;
