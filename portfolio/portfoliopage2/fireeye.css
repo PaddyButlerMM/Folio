@@ -60,12 +60,13 @@ body {
     font-size: 16px;
     font-weight: lighter;
     min-width: 25px;
+    display: inline-block;
     opacity: 100%;
     color:rgb(41, 150, 167);
-    z-index: 1;
+    display: flex;
     text-align: justify;
     top: 650px;
-    margin-left: 10vw;
+    margin-left: 33vw;
     margin-right: 20px;
     position: relative;
     word-spacing: 2.5px;
@@ -73,14 +74,15 @@ body {
     }
  #prince2{
         max-width: 920px;
+        display: inline-block;
+        display: flex;
         font-size: 16px;
-        z-index: 1;
         font-weight: lighter;
         opacity: 100%;
-        color:rgb(41, 150, 167);
+        color:rgb(253, 208, 102);
         text-align:justify;
         top: 680px;
-        margin-left: 10vw;
+        margin-left: 33vw;
         margin-right: 20px;
         position: relative;
         word-spacing: 2.5px;
@@ -88,14 +90,14 @@ body {
         }
     #prince3{
         max-width: 920px;
-        z-index: 1;
+        display: block;
         font-size: 16px;
         font-weight: lighter;
         opacity: 100%;
         text-align: justify;
-        color:rgb(41, 150, 167);
+        color:rgb(18, 65, 94);
         top: 710px;
-        margin-left: 10vw;
+        margin-left: 33vw;
         margin-right: 20px;
         position: relative;
         word-spacing: 2.5px;
@@ -103,14 +105,14 @@ body {
             }
     #prince4{
             max-width: 920px;
+            display: inline-block;
                 opacity: 100%;
-                z-index: 1;
                 font-size: 16px;
                 font-weight: lighter;
                 text-align: justify;
-                color:rgb(41, 150, 167);
+                color:rgb(18, 65, 94);
                 top: 740px;
-                margin-left: 10vw;
+                margin-left: 33vw;
                 margin-right: 20px;
                 position: relative;
                 word-spacing: 2.5px;
@@ -118,14 +120,14 @@ body {
                     }
         #prince5{
             max-width: 920px;
+            display: inline-block;
             opacity: 100%;
-            z-index: 1;
             font-size: 16px;
             font-weight: lighter;
             text-align: justify;
-            color: rgb(41, 150, 167);
+            color: rgb(18, 65, 94);
             top: 770px;
-            margin-left: 10vw;
+            margin-left: 33vw;
             margin-right: 20px;
             position: relative;
             word-spacing: 2.5px;
@@ -133,14 +135,14 @@ body {
                             }
             #prince6{
                 max-width: 920px;
+                display: inline-block;
                 opacity: 100%;
-                z-index: 1;
                 font-size: 16px;
                 font-weight: lighter;
                 text-align: justify;
-                 color: rgb(41, 150, 167);
+                 color: rgb(18, 65, 94);
                 top: 800px;
-                margin-left: 10vw;
+                margin-left: 33vw;
                 margin-right: 20px;
                 position: relative;
                 word-spacing: 2.5px;
@@ -148,13 +150,14 @@ body {
                                                 } 
                                                 #prince7{
                                                     max-width: 920px;
+                                                    display: inline-block;
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
                                                     text-align: justify;
-                                                     color: rgb(41, 150, 167);
+                                                     color: rgb(18, 65, 94);
                                                     top: 830px;
-                                                    margin-left: 10vw;
+                                                    margin-left: 33vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -162,13 +165,14 @@ body {
                                                                                     }  
                                                     #prince8{
                                                     max-width: 920px;
+                                                    display: inline-block;
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
                                                     text-align: justify;
-                                                    color: rgb(41, 150, 167);
+                                                    color: rgb(18, 65, 94);
                                                     top: 860px;
-                                                    margin-left: 10vw;
+                                                    margin-left: 33vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -176,14 +180,14 @@ body {
                                                                  }
                                                     #prince9{
                                                     max-width: 920px;
-                                                    
+                                                    display: inline-block;
                                                     opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
                                                     text-align: justify;
-                                                    color: rgb(41, 150, 167);
+                                                    color: rgb(18, 65, 94);
                                                     top: 890px;
-                                                    margin-left: 10vw;
+                                                    margin-left: 33vw;
                                                     margin-right: 20px;
                                                     position: relative;
                                                     word-spacing: 2.5px;
@@ -191,14 +195,14 @@ body {
                                                              } 
                                                     #prince10{
                                                     max-width: 920px;
-                                                   
+                                                    display: inline-block;
                                                      opacity: 100%;
                                                     font-size: 16px;
                                                     font-weight: lighter;
                                                     text-align: justify;
-                                                    color: rgb(41, 150, 167);
+                                                    color: rgb(18, 65, 94);
                                                     top: 920px;
-                                                    margin-left: 10vw;
+                                                    margin-left: 33vw;
                                                     margin-right: 20px;
                                                      position: relative;
                                                     word-spacing: 2.5px;
@@ -207,14 +211,14 @@ body {
                                                     
                                                     #prince11{
                                                         max-width: 920px;
-                                                   
+                                                        display: inline-block;
                                                          opacity: 100%;
                                                         font-size: 16px;
                                                         font-weight: lighter;
                                                         text-align: justify;
-                                                        color: rgb(41, 150, 167);
+                                                        color: rgb(18, 65, 94);
                                                         top: 950px;
-                                                        margin-left: 10vw;
+                                                        margin-left: 33vw;
                                                         margin-right: 20px;
                                                          position: relative;
                                                         word-spacing: 2.5px;
@@ -222,14 +226,14 @@ body {
                                                     }
                                                     #prince12{
                                                         max-width: 920px;
-                                                        
+                                                        display: inline-block;
                                                          opacity: 100%;
                                                         font-size: 16px;
                                                         font-weight: lighter;
                                                         text-align: justify;
-                                                        color: rgb(41, 150, 167);
+                                                        color: rgb(18, 65, 94);
                                                         top: 980px;
-                                                        margin-left: 10vw;
+                                                        margin-left: 33vw;
                                                         margin-right: 20px;
                                                          position: relative;
                                                         word-spacing: 2.5px;
@@ -237,14 +241,14 @@ body {
                                                     }
                                                         #prince13{
                                                             max-width: 920px;
-                                                            
+                                                            display: inline-block;
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
                                                             text-align: justify;
-                                                            color: rgb(41, 150, 167);
+                                                            color: rgb(18, 65, 94);
                                                             top: 1010px;
-                                                            margin-left: 10vw;
+                                                            margin-left: 33vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
@@ -252,14 +256,14 @@ body {
                                                         }
                                                         #prince14{
                                                             max-width: 920px;
-                                                            
+                                                            display: inline-block;
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
                                                             text-align: justify;
-                                                            color: rgb(41, 150, 167);
+                                                            color: rgb(18, 65, 94);
                                                             top: 1040px;
-                                                            margin-left: 10vw;
+                                                            margin-left: 33vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
@@ -267,14 +271,14 @@ body {
                                                         }
                                                                 #prince15{
                                                                     max-width: 920px;
-                                                                   
+                                                                    display: inline-block;
                                                                      opacity: 100%;
                                                                     font-size: 16px;
                                                                     font-weight: lighter;
                                                                     text-align: justify;
-                                                                    color: rgb(41, 150, 167);
+                                                                    color: rgb(18, 65, 94);
                                                                     top: 1070px;
-                                                                    margin-left: 10vw;
+                                                                    margin-left: 33vw;
                                                                     margin-right: 20px;
                                                                      position: relative;
                                                                     word-spacing: 2.5px;
@@ -282,14 +286,14 @@ body {
                                                             } 
                                                             #prince16{
                                                                 max-width: 920px;
-                                                                
+                                                                display: inline-block;
                                                                  opacity: 100%;
                                                                 font-size: 16px;
                                                                 font-weight: lighter;
                                                                 text-align: justify;
-                                                                color: rgb(41, 150, 167);
+                                                                color: rgb(18, 65, 94);
                                                                 top: 1100px;
-                                                                margin-left: 10vw;
+                                                                margin-left: 33vw;
                                                                 margin-right: 20px;
                                                                  position: relative;
                                                                 word-spacing: 2.5px;
@@ -297,33 +301,35 @@ body {
 
                                                                 #prince17{
                                                                     max-width: 920px;
-                                                                  
+                                                                    display: inline-block;
                                                                      opacity: 100%;
                                                                     font-size: 16px;
                                                                     font-weight: lighter;
                                                                     text-align: justify;
-                                                                    color: rgb(41, 150, 167);
+                                                                    color: rgb(18, 65, 94);
                                                                     top: 1130px;
-                                                                    margin-left: 10vw;
+                                                                    margin-left: 33vw;
                                                                     margin-right: 20px;
                                                                      position: relative;
                                                                     word-spacing: 2.5px;
                                                                     line-height: 45px;
                                                         }     
                                                         #prince18{
-                                                            max-width: 920px;
-                                                         
+                                                            max-width: 950px;
+                                                            display: inline-block;
                                                              opacity: 100%;
                                                             font-size: 16px;
                                                             font-weight: lighter;
                                                             text-align: justify;
-                                                            color: rgb(41, 150, 167);
+                                                            color: rgb(18, 65, 94);
                                                             top: 1160px;
-                                                            margin-left: 10vw;
+                                                            margin-left: 33vw;
                                                             margin-right: 20px;
                                                              position: relative;
                                                             word-spacing: 2.5px;
                                                             line-height: 45px;
                                                     }     
+                                                               
+                                                                                                                                                                                       
                                                                
                                                                                                                                                                                        
