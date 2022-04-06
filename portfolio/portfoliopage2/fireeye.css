@@ -68,7 +68,7 @@ body {
     top: 650px;
     margin-left: 33vw;
     margin-right: 20px;
-    position: absolute;
+    position: relative;
     word-spacing: 2.5px;
     line-height: 45px;
     }
@@ -84,13 +84,13 @@ body {
         top: 680px;
         margin-left: 33vw;
         margin-right: 20px;
-        position: absolute;
+        position: relative;
         word-spacing: 2.5px;
         line-height: 45px;
         }
     #prince3{
         max-width: 920px;
-        display: inline-block;
+        display: block;
         display: flex;
         z-index: 1;
         font-size: 16px;
@@ -101,13 +101,13 @@ body {
         top: 710px;
         margin-left: 33vw;
         margin-right: 20px;
-        position: absolute;
+        position: relative;
         word-spacing: 2.5px;
         line-height: 45px;
             }
     #prince4{
             max-width: 920px;
-            display: inline-block;
+            display: block;
         display: flex;
                 opacity: 100%;
                 z-index: 1;
@@ -118,13 +118,13 @@ body {
                 top: 740px;
                 margin-left: 33vw;
                 margin-right: 20px;
-                position: absolute;
+                position: relative;
                 word-spacing: 2.5px;
                 line-height: 45px;
                     }
         #prince5{
             max-width: 920px;
-            display: inline-block;
+            display: block;
             display: flex;
             opacity: 100%;
             z-index: 1;
@@ -135,13 +135,13 @@ body {
             top: 770px;
             margin-left: 33vw;
             margin-right: 20px;
-            position: absolute;
+            position: relative;
             word-spacing: 2.5px;
             line-height: 45px;
                             }
             #prince6{
                 max-width: 920px;
-                display: inline-block;
+                display: block;
                 display: flex;
                 opacity: 100%;
                 z-index: 1;
@@ -152,13 +152,13 @@ body {
                 top: 800px;
                 margin-left: 33vw;
                 margin-right: 20px;
-                position: absolute;
+                position: relative;
                 word-spacing: 2.5px;
                 line-height: 45px;
                                                 } 
                                                 #prince7{
                                                     max-width: 920px;
-                                                    display: inline-block;
+                                                    display: block;
                                                     display: flex;
                                                     opacity: 100%;
                                                     font-size: 16px;
@@ -168,13 +168,13 @@ body {
                                                     top: 830px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: absolute;
+                                                    position: relative;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                                                     }  
                                                     #prince8{
                                                     max-width: 920px;
-                                                    display: inline-block;
+                                                    display: block;
                                                         display: flex;
                                                     opacity: 100%;
                                                     font-size: 16px;
@@ -184,13 +184,13 @@ body {
                                                     top: 860px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: absolute;
+                                                    position: relative;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                                  }
                                                     #prince9{
                                                     max-width: 920px;
-                                                    display: inline-block;
+                                                    display: block;
                                                         display: flex;
                                                     opacity: 100%;
                                                     font-size: 16px;
@@ -200,13 +200,13 @@ body {
                                                     top: 890px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                    position: absolute;
+                                                    position: relative;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                              } 
                                                     #prince10{
                                                     max-width: 920px;
-                                                    display: inline-block;
+                                                    display: block;
                                                         display: flex;
                                                      opacity: 100%;
                                                     font-size: 16px;
@@ -216,14 +216,14 @@ body {
                                                     top: 920px;
                                                     margin-left: 33vw;
                                                     margin-right: 20px;
-                                                     position: absolute;
+                                                     position: relative;
                                                     word-spacing: 2.5px;
                                                     line-height: 45px;
                                                     }
                                                     
                                                     #prince11{
                                                         max-width: 920px;
-                                                        display: inline-block;
+                                                        display: block;
                                                         display: flex;
                                                          opacity: 100%;
                                                         font-size: 16px;
@@ -239,7 +239,7 @@ body {
                                                     }
                                                     #prince12{
                                                         max-width: 920px;
-                                                        display: inline-block;
+                                                        display: block;
                                                         display: flex;
                                                          opacity: 100%;
                                                         font-size: 16px;
@@ -255,7 +255,7 @@ body {
                                                     }
                                                         #prince13{
                                                             max-width: 920px;
-                                                            display: inline-block;
+                                                            display: block;
                                                             display: flex;
                                                              opacity: 100%;
                                                             font-size: 16px;
@@ -271,7 +271,7 @@ body {
                                                         }
                                                         #prince14{
                                                             max-width: 920px;
-                                                            display: inline-block;
+                                                            display: block;
                                                             display: flex;
                                                              opacity: 100%;
                                                             font-size: 16px;
@@ -287,7 +287,7 @@ body {
                                                         }
                                                                 #prince15{
                                                                     max-width: 920px;
-                                                                    display: inline-block;
+                                                                    display: block;
                                                                     display: flex;
                                                                      opacity: 100%;
                                                                     font-size: 16px;
@@ -303,7 +303,7 @@ body {
                                                             } 
                                                             #prince16{
                                                                 max-width: 920px;
-                                                                display: inline-block;
+                                                                display: block;
                                                                 display: flex;
                                                                  opacity: 100%;
                                                                 font-size: 16px;
@@ -319,7 +319,7 @@ body {
 
                                                                 #prince17{
                                                                     max-width: 920px;
-                                                                    display: inline-block;
+                                                                    display: block;
                                                                     display: flex;
                                                                      opacity: 100%;
                                                                     font-size: 16px;
@@ -335,7 +335,7 @@ body {
                                                         }     
                                                         #prince18{
                                                             max-width: 920px;
-                                                            display: inline-block;
+                                                            display: block;
                                                             display: flex;
                                                              opacity: 100%;
                                                             font-size: 16px;
