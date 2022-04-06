@@ -43,10 +43,11 @@ body {
 #copy:hover{
  color: rgb(252, 160, 99);
 }
-#title{
+#thing-to-stick{
     position: sticky;
     position: -webkit-sticky;
     top: 0px;
+    z-index:1000;
     margin-left: 5vw;
     color: rgb(118, 242, 246);
     max-width: 100px;
