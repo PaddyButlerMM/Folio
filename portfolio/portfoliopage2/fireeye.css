@@ -54,7 +54,9 @@ body {
     height: 200px;
 margin-top: 210px;
 font-size: 29vw;
-position: absolute;
+    position: -webkit-sticky;
+  position: sticky;
+  top: -150px;
 }
 
 #paragraph1{
