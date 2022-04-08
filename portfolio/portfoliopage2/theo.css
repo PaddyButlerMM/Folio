@@ -107,9 +107,9 @@ font-size: 24vw;
 position: relative;
 }
 #sub{
-    max-width: 1000px;
+    max-width: 1500px;
     color:rgb(199, 233, 253);
-    overflow:auto;
+    margin-top: -700px;
     z-index: 1001;
     text-align: justify;
     flex-wrap: wrap;
