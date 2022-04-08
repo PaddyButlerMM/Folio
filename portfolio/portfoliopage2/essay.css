@@ -52,6 +52,14 @@ body {
         position: sticky;
         top: 0px;
     }
+#sub1{
+        font-family: 'Roboto';
+        margin-left: 7vw;
+        font-size: 7vw;
+        z-index: 0;
+        max-width: 900px;
+        margin-top: 210px;
+        color:rgb(255, 255, 255);
     #sub{
       font-family: 'Roboto';
        margin-left: 7vw;
