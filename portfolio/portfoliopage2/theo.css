@@ -108,7 +108,8 @@ position: relative;
 }
 #sub{
     max-width: 1500px;
-    font-family: "DM Serif";
+    font-family: "Roboto";
+    font-weight: bolder;
     color:rgb(210, 242, 251);
     z-index: 1001;
     flex-wrap: wrap;
