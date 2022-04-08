@@ -109,13 +109,11 @@ position: relative;
 #sub{
     max-width: 1500px;
     color:rgb(199, 233, 253);
-    margin-top: -700px;
     z-index: 1001;
     text-align: justify;
     flex-wrap: wrap;
     font-family: "DM Serif";
-    height: 200px;
-top: 340px;
+top: -100px;
 font-size: 5vw;
 position: relative;
 display: block;
