@@ -106,3 +106,20 @@ top: -40px;
 font-size: 24vw;
 position: relative;
 }
+#sub{
+    max-width: 1000px;
+    color:rgb(199, 233, 253);
+    overflow:auto;
+    z-index: 1001;
+    text-align: justify;
+    flex-wrap: wrap;
+    font-family: "DM Serif";
+    height: 200px;
+top: 340px;
+font-size: 5vw;
+position: relative;
+display: block;
+margin-right: 50px;
+margin-left: 5vw;
+
+}
