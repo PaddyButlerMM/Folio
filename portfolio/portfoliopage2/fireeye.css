@@ -45,6 +45,7 @@ body {
   }
 #title{
     margin-left: 5vw;
+    color: rgb(244, 146, 104);
     max-width: 100px;
     text-align: justify;
     flex-wrap: wrap;
