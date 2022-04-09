@@ -48,7 +48,7 @@ body {
     max-width: 100px;
     text-align: justify;
     flex-wrap: wrap;
-    z-index: -4
+    z-index: -4;
     font-family: "Noto Serif Display";
     font-weight: bolder;
     height: 200px;
