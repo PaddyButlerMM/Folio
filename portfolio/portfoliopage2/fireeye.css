@@ -17,7 +17,7 @@ body {
 #nav a{
     color:rgb(255, 243, 227);
      z-index: 2;
-     font-family: "Noto Serif Display";
+     font-family: "Sansita Swashed";
      font-size: 20px;
      top: 20px;
      margin-left: 2vw;
@@ -53,7 +53,7 @@ body {
     font-weight: bolder;
     height: 200px;
 margin-top: 210px;
-font-size: 27vw;
+font-size: 25vw;
 position: sticky;
     top: -490px;
     
