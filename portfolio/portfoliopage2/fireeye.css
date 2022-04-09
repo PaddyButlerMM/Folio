@@ -17,7 +17,7 @@ body {
 #nav a{
     color:rgb(255, 243, 227);
      z-index: 2;
-     font-family: "Sansita Swashed";
+     font-family: "Noto Serif Display";
      font-size: 20px;
      top: 20px;
      margin-left: 2vw;
@@ -49,7 +49,7 @@ body {
     text-align: justify;
     flex-wrap: wrap;
     z-index: -4
-    font-family: "DM Serif";
+    font-family: "Noto Serif Display";
     font-weight: bolder;
     height: 200px;
 margin-top: 210px;
