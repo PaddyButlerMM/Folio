@@ -48,12 +48,12 @@ body {
     color: rgb(244, 146, 104);
     max-width: 100px;
     text-align: justify;
-    font-weight: lighter;
+    font-weight: bolder;
     flex-wrap: wrap;
     z-index: -4;
     font-family: "Noto Serif Display";
-    height: 200px;
-margin-top: 170px;
+    height: 190px;
+margin-top: 180px;
 font-size: 24vw;
 position: sticky;
     top: -490px;
