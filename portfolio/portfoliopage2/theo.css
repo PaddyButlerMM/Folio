@@ -67,16 +67,16 @@ display: inline-block;
 #Theo{
     margin-left: 10vw;
     max-width: 100px;
-    color:rgb(48, 53, 61);
+    color:rgb(186, 151, 24);
     z-index: 999;
     text-align: justify;
     flex-wrap: wrap;
-    font-family: "Roboto";
+    font-family: "DM Serif";
     font-weight: bolder;
     height: 200px;
 top: 180px;
 margin-left: 14vw;
-font-size: 40vw;
+font-size: 24vw;
 position: relative;
 }   
 #and{
@@ -85,12 +85,12 @@ position: relative;
     z-index: 2000;
     text-align: justify;
     flex-wrap: wrap;
-    font-family: "Roboto";
+    font-family: "DM Serif";
     height: 200px;
     font-weight: bolder;
 top: -20px;
 margin-left: -8vw;
-font-size: 55vw;
+font-size: 30vw;
 position: relative;
 }
 #near{
@@ -100,10 +100,10 @@ position: relative;
     font-weight: bolder;
     text-align: justify;
     flex-wrap: wrap;
-    font-family: "Roboto";
+    font-family: "DM Serif";
     height: 200px;
 top: -40px;
-font-size: 24vw;
+font-size: 20vw;
 position: relative;
 }
 #sub{
