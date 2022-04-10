@@ -67,7 +67,7 @@ display: inline-block;
 #Theo{
     margin-left: 10vw;
     max-width: 100px;
-    color:rgb aliceblue;
+    color:rgb(251, 247, 238);
     z-index: 999;
     text-align: justify;
     flex-wrap: wrap;
@@ -81,7 +81,7 @@ position: relative;
 }   
 #and{
     margin-left: 10vw;
-    color:rgb aliceblue;
+    color:rgb(251, 247, 238);
     z-index: 2000;
     text-align: justify;
     flex-wrap: wrap;
@@ -95,7 +95,7 @@ position: relative;
 }
 #near{
     margin-left: 6vw;
-    color:rgb aliceblue;
+    color:rgb(251, 247, 238);
     z-index: 1001;
     font-weight: bolder;
     text-align: justify;
