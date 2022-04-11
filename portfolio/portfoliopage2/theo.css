@@ -43,7 +43,7 @@ body{
         width: 35vw;
         height: auto;
         margin-left: -13vw;
-        margin-top: 50px;
+        margin-top: 80px;
         z-index: -2;
         position:relative;
        }
@@ -113,7 +113,7 @@ position: relative;
     color:rgb(210, 242, 251);
     z-index: 1001;
     flex-wrap: wrap;
-    top: -500px;
+    top: -950px;
 font-size: 7vw;
 position: relative;
 display: block;
