@@ -11,7 +11,8 @@ body, html {
   z-index: 4;
   font-family: "Sansita Swashed";   
   font-size: 20px;
-  top: 20px;
+  top: 18px;
+  text-decoration-line: none;
   margin-left: 2vw;
   word-spacing: 3.5px;
   position: relative; 
