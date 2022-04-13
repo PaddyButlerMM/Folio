@@ -54,7 +54,7 @@ body{
     min-width: 25px;
     font-size: 14px;
     margin-right: 50px;
-    margin-top: -1450px;
+    margin-top: 700px;
         z-index: 100;
 opacity: 100%;
 color:aliceblue;
@@ -113,7 +113,7 @@ position: relative;
     color:rgb(210, 242, 251);
     z-index: 1001;
     flex-wrap: wrap;
-    top: -1600px;
+    top: 300px;
 font-size: 7vw;
 position: relative;
 display: block;
