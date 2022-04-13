@@ -3,7 +3,7 @@
     margin: 0%;
 }
 body{
-    background-image: linear-gradient(180deg, #070606 .5%, #785104 20.78%, #a37d1c 70.78%);
+    background-image: linear-gradient(180deg, #070606 .5%, #070606 10.78%, #a37d1c 80.78%);
     width: 100%;
      padding:0px;
      margin-top: 0px;
@@ -124,5 +124,6 @@ margin-left: 5vw;
 #vid{
     max-width: 95vw;
     margin-left: 8vw;
-    top: 80px;
+    top: 120px;
+    z-index: -80;
 }
