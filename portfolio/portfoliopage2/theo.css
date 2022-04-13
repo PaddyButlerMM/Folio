@@ -40,7 +40,7 @@ body{
    
     }
     #shpe{
-        width: 35vw;
+        width: 28vw;
         height: auto;
         margin-left: -13vw;
         margin-top: 80px;
@@ -122,8 +122,8 @@ margin-left: 5vw;
 
 }
 #vid{
-    max-width: 95vw;
-    margin-left: 8vw;
+    max-width: 80vw;
+    margin-left: 5vw;
     top: 120px;
     z-index: -80;
 }
