@@ -57,7 +57,7 @@ body{
     margin-top: 700px;
         z-index: 100;
 opacity: 100%;
-color:aliceblue;
+color:rgb(255, 255, 255);
 margin-left: 15vw;
 word-spacing: 1.5px;
 line-height: 48px;
@@ -110,7 +110,7 @@ position: relative;
     max-width: 1500px;
     font-family: "Inter";
     font-weight: bolder;
-    color:rgb(210, 242, 251);
+    color:rgb(255, 255, 255);
     z-index: 1001;
     flex-wrap: wrap;
     top: 300px;
