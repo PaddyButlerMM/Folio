@@ -45,7 +45,7 @@ body {
    color: rgb(252, 160, 99);
   }
 #title{
-    margin-left: 5vw;
+    margin-left: -1vw;
     color: rgb(244, 146, 104);
     max-width: 100px;
     text-align: justify;
@@ -54,7 +54,7 @@ body {
     z-index: -4;
     font-family: "Noto Serif Display";
     height: 160px;
-margin-top: -150px;
+margin-top: -170px;
 font-size: 24vw;
 position: sticky;
     top: -560px;
