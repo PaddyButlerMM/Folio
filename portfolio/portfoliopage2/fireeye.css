@@ -53,11 +53,10 @@ body {
     flex-wrap: wrap;
     z-index: -4;
     font-family: "Noto Serif Display";
-    height: 160px;
-margin-top: -170px;
+margin-top: -180px;
 font-size: 24vw;
 position: sticky;
-    top: -560px;
+    top: -600px;
     
 }
 #paragraph1{
