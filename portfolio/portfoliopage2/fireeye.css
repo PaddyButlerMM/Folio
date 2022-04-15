@@ -50,6 +50,7 @@ body {
     max-width: 100px;
     text-align: justify;
     font-weight: bolder;
+    line-height: 80px;
     flex-wrap: wrap;
     z-index: -4;
     font-family: "Noto Serif Display";
