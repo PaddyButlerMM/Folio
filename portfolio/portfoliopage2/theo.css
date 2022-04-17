@@ -38,10 +38,8 @@ body{
 #copy:hover{
  color: rgb(252, 160, 99);
 }  
-   
-    }
  #shpe1{
-        width: 4vw;
+        width: 20vw;
         height: auto;
         margin-left: -20vw;
         margin-top: 80px;
