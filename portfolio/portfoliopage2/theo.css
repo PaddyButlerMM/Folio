@@ -40,12 +40,20 @@ body{
 }  
    
     }
-    #shpe{
-        width: 34vw;
+ #shpe1{
+        width: 25vw;
         height: auto;
         margin-left: -20vw;
         margin-top: 80px;
         z-index: -2;
+        position:relative;
+       }
+    #shpe{
+        width: 34vw;
+        height: auto;
+        margin-left: -20vw;
+        margin-top: 160px;
+        z-index: -4;
         position:relative;
        }
     #block{
