@@ -52,6 +52,12 @@ body{
         z-index: -4;
         position:relative;
        }
+#shpe4{
+        width: 60vw;
+        height: auto;
+        z-index: -2;
+        position:relative;
+       }
     #block{
         color:rgb(255, 255, 255);
         max-width: 950px;
