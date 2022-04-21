@@ -114,10 +114,10 @@ color: rgb(252, 160, 99);
     font-family: "Inter";
     font-weight: 980;
     text-align: sticky;
-    font-size: 7vw;
+    font-size: 12vw;
     color:aliceblue;
     position:relative;
-    margin-top: 80px;
+    margin-top: -20px;
     margin-left: 28vw;
 
 }
