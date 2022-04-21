@@ -178,7 +178,7 @@ line-height: 25px;
     word-spacing: 1.5px;
     line-height: 25px;
     }
-    @media only screen and (max-width: 500px) {
+    @media only screen and (max-width: 400px) {
         #bio2 {
           display: none;
         }}
