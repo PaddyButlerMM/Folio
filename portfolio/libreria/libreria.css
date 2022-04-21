@@ -118,7 +118,7 @@ color: rgb(252, 160, 99);
     color:aliceblue;
     position:relative;
     margin-top: -80px;
-    margin-left: 20vw;
+    margin-left: 16vw;
 
 }
 .container3{
@@ -151,14 +151,14 @@ color: rgb(252, 160, 99);
     
 #bio{
     max-width: 600px;
-    min-width: 25px;
+    min-width: 20px;
 opacity: 100%;
 color:aliceblue;
 font-weight: bolder;
 display: flex;
 text-align: justify;
 top: 100px;
-margin-left: 15vw;
+margin-left: 14vw;
 margin-right: 90px;
 position: relative;
 word-spacing: 1.5px;
@@ -172,13 +172,13 @@ line-height: 25px;
     color:aliceblue;
     text-align:justify;
     top: 150px;
-    margin-left: 15vw;
+    margin-left: 14vw;
     margin-right: 90px;
     position: relative;
     word-spacing: 1.5px;
     line-height: 25px;
     }
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 500px) {
         #bio2 {
           display: none;
         }}
