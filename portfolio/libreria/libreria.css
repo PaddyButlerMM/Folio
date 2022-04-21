@@ -112,13 +112,13 @@ color: rgb(252, 160, 99);
 
 .heading{
     font-family: "Inter";
-    font-weight: 980;
+    font-weight: 1200;
     text-align: sticky;
     font-size: 12vw;
     color:aliceblue;
     position:relative;
-    margin-top: -20px;
-    margin-left: 28vw;
+    margin-top: -80px;
+    margin-left: 20vw;
 
 }
 .container3{
