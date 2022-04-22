@@ -113,7 +113,7 @@ color: rgb(252, 160, 99);
 .heading{
     font-family: "Inter";
     font-weight: 1200;
-    font-size: clamp(100px, 12vw, 1300px);
+    font-size: clamp(100px, 12vw, 150px);
     color:aliceblue;
     position:relative;
     margin-top: -80px;
