@@ -114,7 +114,7 @@ color: rgb(252, 160, 99);
     font-family: "Inter";
     font-weight: 1200;
     text-align: sticky;
-    font-size: 14vw;
+    width: clamp(800px, 14vw, 14vw);
     color:aliceblue;
     position:relative;
     margin-top: -80px;
