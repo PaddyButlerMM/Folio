@@ -72,14 +72,13 @@ color: rgb(252, 160, 99);
 
 }
 #podcast{
-    height: clamp(200px, 47vw, 900px);
+    height: clamp(400px, 47vw, 900px);
     width: auto;
     position:relative;
-    top: 900px;
+    top: 1200px;
     opacity: 85%;
-    margin-left: 150px;
-  
-}
+    margin-left: 15vw;
+  }
 
 .container2{
     background-image: url(img/FitzLibreria1.png);
@@ -113,7 +112,7 @@ color: rgb(252, 160, 99);
 .heading{
     font-family: "Inter";
     font-weight: 1200;
-    font-size: clamp(100px, 14vw, 200px);
+    font-size: clamp(70px, 14vw, 200px);
     color:aliceblue;
     position:relative;
     margin-top: -80px;
