@@ -113,12 +113,12 @@ color: rgb(252, 160, 99);
     font-family: "Rozha One";
     font-weight: 1200;
     z-index: 80;
-    font-size: clamp(120px, 17vw, 350px);
+    font-size: clamp(80px, 17vw, 350px);
     color:aliceblue;
     line-height: 380px;
     position:relative;
     margin-top: -70px;
-    margin-left: 9vw;
+    margin-left: 7vw;
 
 }
 .container3{
