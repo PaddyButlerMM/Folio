@@ -150,7 +150,7 @@ color: rgb(252, 160, 99);
     }}
     
 #bio{
-    max-width: 600px;
+    width: clamp(300px, 60vw, 600px);
     min-width: 20px;
 opacity: 100%;
 color:aliceblue;
@@ -165,7 +165,7 @@ word-spacing: 1.5px;
 line-height: 25px;
 }
 #bio2{
-    max-width: 600px;
+    width: clamp(300px, 60vw, 600px);
     display: block;
     font-weight: bolder;
     opacity: 100%;
