@@ -113,7 +113,7 @@ color: rgb(252, 160, 99);
     font-family: "Rozha One";
     font-weight: 1200;
     z-index: 80;
-    font-size: clamp(100px, 19vw, 350px);
+    font-size: clamp(200px, 17vw, 350px);
     color:aliceblue;
     line-height: 380px;
     position:relative;
