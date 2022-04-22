@@ -110,7 +110,7 @@ color: rgb(252, 160, 99);
     }}
 
 .heading{
-    font-family: "Inter";
+    font-family: "Sansita Swashed";
     font-weight: 1200;
     font-size: clamp(70px, 14vw, 200px);
     color:aliceblue;
