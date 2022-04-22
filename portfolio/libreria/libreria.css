@@ -113,7 +113,7 @@ color: rgb(252, 160, 99);
     font-family: "Rozha One";
     font-weight: 1200;
     z-index: 80;
-    font-size: clamp(70px, 14vw, 200px);
+    font-size: clamp(70px, 18vw, 250px);
     color:aliceblue;
     position:relative;
     margin-top: -180px;
