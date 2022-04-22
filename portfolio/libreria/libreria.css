@@ -75,7 +75,7 @@ color: rgb(252, 160, 99);
     height: clamp(400px, 47vw, 900px);
     width: auto;
     position:relative;
-    top: 1200px;
+    top: 1300px;
     opacity: 85%;
     margin-left: 15vw;
   }
@@ -194,7 +194,7 @@ line-height: 25px;
     word-spacing: 1.5px;
     line-height: 25px;
         }
-        @media only screen and (max-width: 600px) {
+        @media only screen and (max-width: 300px) {
             #bio3 {
               display: none;
             }}
