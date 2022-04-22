@@ -115,7 +115,7 @@ color: rgb(252, 160, 99);
     z-index: 80;
     font-size: clamp(100px, 18vw, 350px);
     color:aliceblue;
-    line-height: clamp(20px, 31vh; 350px);
+    line-height: 31vh;
     position:relative;
     margin-top: -20px;
     margin-left: 7vw;
