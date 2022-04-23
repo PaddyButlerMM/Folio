@@ -126,8 +126,8 @@ color: rgb(252, 160, 99);
   font-size: clamp(100px, 40vw, 500px);
   color:aliceblue;
   position:relative;
-  margin-top: 20px;
-  margin-left: -2vw;
+  margin-top: 15px;
+  margin-left: -4vw;
 }
 .container3{
     background-image: url(img/BaanResized.jpg); 
