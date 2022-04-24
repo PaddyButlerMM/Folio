@@ -75,7 +75,7 @@ color: rgb(252, 160, 99);
     height: clamp(400px, 47vw, 900px);
     width: auto;
     position:relative;
-    top: 1300px;
+    top: 1400px;
     opacity: 85%;
     margin-left: 15vw;
   }
