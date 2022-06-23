@@ -174,7 +174,7 @@ background-attachment: fixed;
         .intro-text p1{
             width: clamp(300px, 60vw, 600px);
             text-align: justify;
-            font-family: Cormorant Garamond;
+            font-family: "Cormorant Garamond";
             display: block;
             display: flex;
             flex-wrap: wrap;
@@ -201,7 +201,7 @@ background-attachment: fixed;
 
         .intro-text p2{
         max-width: 600px;
-            font-family: Cormorant Garamond;
+            font-family: "Cormorant Garamond";
             min-width: 300px;
         text-align: justify;
             z-index: 4;
