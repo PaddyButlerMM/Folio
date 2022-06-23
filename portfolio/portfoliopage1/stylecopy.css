@@ -139,6 +139,7 @@ background-attachment: fixed;
     .nav a{
         color: rgb(211, 250, 253);
         text-decoration-line: none;
+        font-weight: bold;
         font-size: 16px;
         font-family: "Antic Slab";
         text-align: center;
