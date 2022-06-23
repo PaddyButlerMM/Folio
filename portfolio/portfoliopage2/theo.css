@@ -65,11 +65,11 @@ body{
         position:relative;
        }
     #block{
-        color: rgb(137, 220, 255);
+        color: rgb(181, 233, 255);
         max-width: 950px;
         font-weight: lighter;
     min-width: 25px;
-    font-size: 14px;
+    font-size: 15.5px;
     margin-right: 50px;
     margin-top: 300px;
         z-index: 100;
