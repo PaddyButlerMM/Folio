@@ -71,7 +71,7 @@ body{
     min-width: 25px;
     font-size: 15.5px;
     margin-right: 50px;
-    margin-top: 50px;
+    margin-top: -50px;
         z-index: 100;
 opacity: 100%;
 margin-left: 15vw;
@@ -129,7 +129,7 @@ position: relative;
     color:rgb(255, 255, 255);
     z-index: 1001;
     flex-wrap: wrap;
-    top: -50px;
+    top: -200px;
 font-size: 4vw;
 position: relative;
 display: block;
