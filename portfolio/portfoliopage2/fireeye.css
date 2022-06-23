@@ -17,9 +17,10 @@ body {
 #nav a{
     color:rgb(234, 155, 245);
      z-index: 2;
-     font-family: "Cormorant Garamond";
+     font-family: "Antic Slab";
      text-decoration-line: none;
      font-size: 18px;
+     font-weight: 30px;
      top: 20px;
      margin-left: 2vw;
      word-spacing: 3.5px;
