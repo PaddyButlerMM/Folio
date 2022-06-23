@@ -14,10 +14,11 @@ background-repeat: repeat;
 #nav a{
   color:rgb(208, 248, 250);
    z-index: 8;
-   font-family: "Cormorant Garamond";
-   font-size: 20px;
+   font-family: "Antic Slab";
+   font-size: 16px;
    top: 20px;
    margin-left: 2vw;
+   underline: none;
    word-spacing: 3.5px;
    position: relative;
   }
