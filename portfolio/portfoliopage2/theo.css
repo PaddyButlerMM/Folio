@@ -65,7 +65,7 @@ body{
         position:relative;
        }
     #block{
-        color: rgb(181, 233, 255);
+        color: aliceblue;
         max-width: 950px;
         font-weight: lighter;
     min-width: 25px;
