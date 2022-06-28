@@ -175,7 +175,7 @@ background-attachment: fixed;
 
         .intro-text p1{
             width: clamp(300px, 60vw, 600px);
-            font-family: "Inter";
+            font-family: "Antic Slab";
             text-align: justify;
             display: block;
             display: flex;
@@ -191,7 +191,7 @@ background-attachment: fixed;
             padding-right: 150px;
             margin-left: 2vw;
             color:rgb(211, 250, 253);
-            font-size: 14px;
+            font-size: 16px;
             word-spacing: 1.5px;
             line-height: 40px;
              }
@@ -203,7 +203,7 @@ background-attachment: fixed;
         .intro-text p2{
         max-width: 600px;
         min-width: 300px;
-        font-family: "Inter";
+        font-family: "Antic Slab";
         text-align: justify;
             z-index: 4;
             backdrop-filter: brightness(85%)blur(5px);
@@ -214,7 +214,7 @@ background-attachment: fixed;
         padding-left: 20px;
         padding-right: 600px; 
         color:rgb(211, 250, 253);
-        font-size: 14px;
+        font-size: 16px;
             margin-left: 2vw; 
         word-spacing: 1.5px;
         line-height: 40px;
