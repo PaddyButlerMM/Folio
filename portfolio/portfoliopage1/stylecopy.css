@@ -165,7 +165,8 @@ background-attachment: fixed;
 }  
  .name{
         color:rgb(211, 250, 253);
-        font-family: "Sansita Swashed";
+        font-family: "Antic Slab";
+        font-weight: bolder;
         font-size: 30px;
         padding-left: 20px; 
         padding-top: 110px;
