@@ -202,8 +202,8 @@ background-attachment: fixed;
 
         .intro-text p2{
         max-width: 600px;
-        min-width: 300px;
-        font-family: "Antic Slab";
+        min-width: 400px;
+        font-family: "Roboto";
         text-align: justify;
             z-index: 4;
             backdrop-filter: brightness(85%)blur(5px);
