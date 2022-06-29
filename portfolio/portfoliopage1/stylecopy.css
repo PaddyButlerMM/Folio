@@ -202,8 +202,7 @@ background-attachment: fixed;
                 }}
 
         .intro-text p2{
-        max-width: 660px;
-        min-width: 130px;
+        width: clamp(410px, 60vw, 600px);
         font-family: "Roboto";
         text-align: justify;
             z-index: 4;
