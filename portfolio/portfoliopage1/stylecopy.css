@@ -174,7 +174,7 @@ background-attachment: fixed;
         }
 
         .intro-text p1{
-            width: clamp(300px, 60vw, 600px);
+            width: clamp(350px, 60vw, 600px);
             font-family: "Antic Slab";
             text-align: justify;
             display: block;
@@ -203,7 +203,7 @@ background-attachment: fixed;
 
         .intro-text p2{
         max-width: 660px;
-        min-width: 440px;
+        min-width: 400px;
         font-family: "Roboto";
         text-align: justify;
             z-index: 4;
